@@ -1,34 +1,49 @@
-# Software Design Documentation (SDD)
+# Software Design Documentation
+
+## DAFTAR ISI
 
 ## 1. Pendahuluan
-Dokumen ini berisi perancangan sistem yang akan dibangun.
+### 1.1 Tujuan
+
+### 1.2 Ruang Lingkup
+
+### 1.3 Gambaran Umum Dokumen
+
+---
 
 ## 2. Deskripsi Umum
-Sistem yang dibuat adalah aplikasi (isi: misal laundry).
-Sistem ini digunakan oleh:
-- Admin
-- User
+### 2.1 Perspektif Produk
+
+### 2.2 Manfaat Produk
+
+### 2.3 Karakteristik User
+
+### 2.4 Batasan-Batasan
+
+---
 
 ## 3. Software Design
 
-### 3.1 Functional Requirement
-- Sistem dapat melakukan login
-- Sistem dapat mengelola data
-- Sistem dapat memproses transaksi
-- Sistem dapat menampilkan informasi
+### 3.1 Kebutuhan Fungsional
 
-### 3.2 Interface
-- Halaman Login
-- Halaman Dashboard
-- Halaman Input Data
-- Halaman Output
+### 3.2 Kebutuhan Interface
 
-### 3.3 Diagram Sistem
-Use Case:
-- Admin dan User
+### 3.3 Lingkungan Operasi
 
-Activity:
-1. Login
-2. Input data
-3. Proses
-4. Output
+### 3.4 Batas Perancangan
+
+### 3.5 Model Data
+
+#### 3.5.1 Use Case Diagram
+Aktor:
+
+#### 3.5.2 Activity Diagram
+
+#### 3.5.3 Sequence Diagram
+
+#### 3.5.4 Class Diagram
+
+#### 3.5.5 Object Diagram
+### 3.6 Rancangan Arsitektur Sistem
+
+### 3.7 Rancangan Interface Halaman
