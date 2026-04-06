@@ -35,7 +35,6 @@
 ### 3.5 Model Data
 
 #### 3.5.1 Use Case Diagram
-Aktor:
 
 #### 3.5.2 Activity Diagram
 
