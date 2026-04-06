@@ -1,27 +1,25 @@
-# Software Test Plan (STP)
+# Software Test Plan
 
-## 1. Tujuan Pengujian
-Dokumen ini bertujuan untuk memastikan sistem berjalan sesuai dengan kebutuhan dan bebas dari error.
+## DAFTAR ISI
 
-## 2. Lingkungan Pengujian
-Pengujian dilakukan dengan:
-- Perangkat: Laptop / PC
-- Sistem Operasi: Windows
-- Browser: Google Chrome
+## 1. Pendahuluan
 
-## 3. Metode Pengujian
-Metode yang digunakan:
-- Blackbox Testing
-- Pengujian manual
+### 1.1 Tujuan
 
-## 4. Rencana Pengujian
-Pengujian dilakukan pada fitur:
-- Login
-- Input data
-- Proses transaksi
-- Output / hasil
+### 1.2 Latar Belakang
+### 1.3 Ruang Lingkup
 
-## 5. Hasil yang Diharapkan
-- Sistem berjalan dengan baik
-- Tidak terdapat error
-- Semua fitur berfungsi sesuai kebutuhan
+---
+
+## 2. Lingkungan Pengujian Perangkat Lunak
+
+### 2.1 Material Pengujian
+### 2.2 Teknik Pengujian
+
+---
+
+## 3. Rencana Pengujian
+Pengujian dilakukan pada:
+---
+
+## 4. Hasil Pengujian
