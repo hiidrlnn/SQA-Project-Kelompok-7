@@ -1,7 +1,5 @@
 # Software Requirements Specification
 
-**Date:** January 4, 2016  
-
 ---
 
 ## DAFTAR ISI
