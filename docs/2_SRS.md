@@ -24,9 +24,3 @@
 - 2.5 Karakteristik User  
 - 2.6 Batasan-Batasan  
 - 2.7 Asumsi dan Ketergantungan  
-
----
-
-## Catatan
-Dokumen ini merupakan bagian dari Software Quality – DENS 2025  
-T Informatika - UKRI
